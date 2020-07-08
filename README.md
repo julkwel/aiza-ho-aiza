@@ -7,6 +7,8 @@ Ireo fampanantenana nolazain'ny prezdà Andry Rajoelina, aiza hoaiza izy izao ?
 
 :x:  => Tsy tanteraka
 
+:sunrise:  => Mbola andalam-panamboarana
+
 
 --------------------------------------------------------------------------
 |Fampanantenana                        |  Source     | Status             |
@@ -14,9 +16,9 @@ Ireo fampanantenana nolazain'ny prezdà Andry Rajoelina, aiza hoaiza izy izao ?
 | Digitalisation fokontany             | Kabary TVM  | :x:                |
 | Vatsy tsinjo                         | Kabary TVM  | :white_check_mark: |
 | Pharmacie ngeza indrindra eto Afrika | Kabary TVM  | :white_check_mark: |
-| GasyCar (fiara made in madagascar)   | Kabary TVM  | :heavy_check_mark: |
+| GasyCar (fiara made in madagascar)   | Kabary TVM  | :sunrise:          |
 | Tramway                              | Propagande  | :x:                |
 | Miami                                | Propagande  | :x:                |
 | Tanamasoandro                        | Propagande  | :x:                |
-| Kianja Barea                         | Kabary TVM  | :white_check_mark: |
+| Kianja Barea                         | Kabary TVM  | :sunrise:          |
 | EPP Misy parking                     | Propagande  | :x:                |
